@@ -7,4 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="NoteColor1">#FF0002</color>
+    <color name="NoteColor2">#00FFFF</color>
+    <color name="NoteColor3">#03FF6E</color>
+    <color name="NoteColor4">#FFF700</color>
+    <color name="NoteColor5">#FF3D00</color>
+    <color name="NoteColor6">#ED00FD</color>
 </resources>
